@@ -1,7 +1,7 @@
 <?php
 
 use Dotenv\Dotenv;
-use MyApp\config\config;
+use cva67\phpmvc\config\config;
 use cva67\phpmvc\Database;
 use cva67\phpmvc\Migration;
 

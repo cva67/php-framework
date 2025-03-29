@@ -1,6 +1,6 @@
 <?php
 
-namespace MyApp\config;
+namespace cva67\phpmvc\config;
 
 class config
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace MyApp\database;
+namespace cva67\phpmvc\database;
 
 abstract class AbstractMigration
 {

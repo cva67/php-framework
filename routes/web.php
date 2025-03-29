@@ -1,10 +1,10 @@
 <?php
 
-namespace MyApp\routes;
+namespace cva67\phpmvc\routes;
 
-use MyApp\app\controllers\AuthController;
-use MyApp\app\controllers\BlogController;
-use MyApp\app\controllers\IndexController;
+use cva67\phpmvc\controllers\AuthController;
+use cva67\phpmvc\controllers\BlogController;
+use cva67\phpmvc\controllers\IndexController;
 
 // $router->get('/', function () {
 //     return 'hello';

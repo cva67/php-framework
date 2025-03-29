@@ -1,6 +1,6 @@
 <?php
 
-use MyApp\config\config;
+use cva67\phpmvc\config\config;
 
 ?>
 <!DOCTYPE html>

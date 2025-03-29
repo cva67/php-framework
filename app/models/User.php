@@ -1,8 +1,8 @@
 <?php
 
-namespace MyApp\app\models;
+namespace cva67\phpmvc\models;
 
-use MyApp\app\BaseModel;
+use cva67\phpmvc\BaseModel;
 
 class User extends BaseModel
 {

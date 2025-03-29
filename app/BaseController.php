@@ -1,6 +1,6 @@
 <?php
 
-namespace MyApp\app;
+namespace cva67\phpmvc;
 
 
 use cva67\phpmvc\Middleware;

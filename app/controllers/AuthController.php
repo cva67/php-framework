@@ -1,11 +1,11 @@
 <?php
 
-namespace MyApp\app\controllers;
+namespace cva67\phpmvc\controllers;
 
-use MyApp\app\BaseController;
-use MyApp\app\middlewares\AuthMiddleware;
-use MyApp\app\models\Login;
-use MyApp\app\models\User;
+use cva67\phpmvc\BaseController;
+use cva67\phpmvc\middlewares\AuthMiddleware;
+use cva67\phpmvc\models\Login;
+use cva67\phpmvc\models\User;
 use cva67\phpmvc\App;
 use cva67\phpmvc\exceptions\Forbidden;
 use cva67\phpmvc\Request;

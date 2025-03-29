@@ -1,8 +1,8 @@
 <?php
 
-namespace MyApp\app;
+namespace cva67\phpmvc;
 
-use MyApp\database\DbModel;
+use cva67\phpmvc\database\DbModel;
 
 abstract class BaseModel extends DbModel
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace MyApp\database\migrations;
+namespace cva67\phpmvc\database\migrations;
 
-use MyApp\database\AbstractMigration;
-use MyApp\database\Schema;
+use cva67\phpmvc\database\AbstractMigration;
+use cva67\phpmvc\database\Schema;
 
 class create_00002_users extends AbstractMigration
 {

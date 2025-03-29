@@ -1,9 +1,9 @@
 <?php
 
-namespace cva67\phpmvc\controllers;
+namespace cva67\phpmvc\app\controllers;
 
-use cva67\phpmvc\BaseController;
-use cva67\phpmvc\View;
+use cva67\phpmvc\app\BaseController;
+
 
 class IndexController extends BaseController
 {

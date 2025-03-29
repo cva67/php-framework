@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d2efc9587d0595c94f16da9b2077c7e5",
+    "content-hash": "bdb941b21d0d67ae6a064ccbed5eeb03",
     "packages": [
         {
             "name": "cva67/my-php-mvc-framework",
-            "version": "v0.0.3-beta",
+            "version": "v0.0.4-beta",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cva67/my-php-framework.git",
-                "reference": "da15b859a4e8a7abaa13a80f0e5e64a6eddfdd0c"
+                "reference": "76d654158d09220d121a9e3d53baabd7e5cc4d0f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cva67/my-php-framework/zipball/da15b859a4e8a7abaa13a80f0e5e64a6eddfdd0c",
-                "reference": "da15b859a4e8a7abaa13a80f0e5e64a6eddfdd0c",
+                "url": "https://api.github.com/repos/cva67/my-php-framework/zipball/76d654158d09220d121a9e3d53baabd7e5cc4d0f",
+                "reference": "76d654158d09220d121a9e3d53baabd7e5cc4d0f",
                 "shasum": ""
             },
             "type": "library",
@@ -38,9 +38,9 @@
             "description": "Simple Test php Framework",
             "support": {
                 "issues": "https://github.com/cva67/my-php-framework/issues",
-                "source": "https://github.com/cva67/my-php-framework/tree/v0.0.3-beta"
+                "source": "https://github.com/cva67/my-php-framework/tree/v0.0.4-beta"
             },
-            "time": "2025-03-29T09:54:42+00:00"
+            "time": "2025-03-29T12:29:44+00:00"
         },
         {
             "name": "graham-campbell/result-type",

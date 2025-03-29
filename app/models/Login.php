@@ -1,8 +1,8 @@
 <?php
 
-namespace cva67\phpmvc\models;
+namespace cva67\phpmvc\app\models;
 
-use cva67\phpmvc\BaseModel;
+use cva67\phpmvc\app\BaseModel;
 use cva67\phpmvc\App;
 
 class Login extends BaseModel

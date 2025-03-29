@@ -1,6 +1,6 @@
 <?php
 
-namespace cva67\phpmvc\middlewares;
+namespace cva67\phpmvc\app\middlewares;
 
 use cva67\phpmvc\App;
 use cva67\phpmvc\exceptions\Forbidden;

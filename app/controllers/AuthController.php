@@ -1,14 +1,14 @@
 <?php
 
-namespace cva67\phpmvc\controllers;
+namespace cva67\phpmvc\app\controllers;
 
-use cva67\phpmvc\BaseController;
-use cva67\phpmvc\middlewares\AuthMiddleware;
-use cva67\phpmvc\models\Login;
-use cva67\phpmvc\models\User;
+use cva67\phpmvc\app\BaseController;
+use cva67\phpmvc\app\models\Login;
+use cva67\phpmvc\app\models\User;
 use cva67\phpmvc\App;
 use cva67\phpmvc\exceptions\Forbidden;
 use cva67\phpmvc\Request;
+use cva67\phpmvc\app\middlewares\AuthMiddleware;
 
 class AuthController extends BaseController
 {

@@ -2,8 +2,8 @@
 
 use Dotenv\Dotenv;
 use cva67\phpmvc\config\config;
-use cva67\phpmvc\Database;
-use cva67\phpmvc\Migration;
+use cva67\phpmvc\core\Database;
+use cva67\phpmvc\core\Migration;
 
 define('BASE_PATH', realpath(__DIR__ . '/'));
 

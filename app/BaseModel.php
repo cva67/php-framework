@@ -1,6 +1,6 @@
 <?php
 
-namespace cva67\phpmvc;
+namespace cva67\phpmvc\app;
 
 use cva67\phpmvc\database\DbModel;
 

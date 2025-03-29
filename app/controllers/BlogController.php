@@ -1,9 +1,9 @@
 <?php
 
-namespace cva67\phpmvc\controllers;
+namespace cva67\phpmvc\app\controllers;
 
-use cva67\phpmvc\BaseController;
-use cva67\phpmvc\middlewares\AuthMiddleware;
+use cva67\phpmvc\app\BaseController;
+use cva67\phpmvc\app\middlewares\AuthMiddleware;
 use cva67\phpmvc\Request;
 
 class BlogController extends BaseController

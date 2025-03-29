@@ -1,7 +1,9 @@
 <?php
 
+
 use Dotenv\Dotenv;
 use cva67\phpmvc\App;
+
 
 define('BASE_PATH', realpath(__DIR__ . '/..'));
 

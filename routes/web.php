@@ -2,13 +2,14 @@
 
 namespace cva67\phpmvc\routes;
 
-use cva67\phpmvc\controllers\AuthController;
-use cva67\phpmvc\controllers\BlogController;
-use cva67\phpmvc\controllers\IndexController;
+use cva67\phpmvc\app\controllers\AuthController;
+use cva67\phpmvc\app\controllers\BlogController;
+use cva67\phpmvc\app\controllers\IndexController;
 
 // $router->get('/', function () {
 //     return 'hello';
 // });
+
 $router->get('/', [IndexController::class, 'index']);
 $router->get('/home', [IndexController::class, 'index']);
 $router->get('/contact', [IndexController::class, 'contact']);

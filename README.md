@@ -18,7 +18,7 @@ Follow these simple steps to set up the project on your local machine:
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/cva67/php-framework.git
-cd php-mini-framework
+cd php-framework
 ```
 
 ### 2️⃣ Install Dependencies
